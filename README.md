@@ -1,6 +1,6 @@
 # Protein_Sequence_Alignment_using_Pyspark
 
-Protein_Sequence_Alignment_using_Pyspark
+Protein Sequence Alignment using Pyspark
 
 
 implement a Pyspark version of the code which is able to do the sequence alignment of the 
